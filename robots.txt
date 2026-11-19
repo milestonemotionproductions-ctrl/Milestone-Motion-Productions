@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://milestonemotionproductions-ctrl.github.io/Milestone-Motion-Productions/sitemap.xml
